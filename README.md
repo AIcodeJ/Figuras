@@ -1,10 +1,10 @@
-# Colecciones
+# Herencia, Polimorfismo e Interfaces
 
-_Esto es un programa que simula las cartas de poker hecho en Java_
+_Esto es un programa que simula las figuras geometricas hecho en Java_
 
 ## Comenzando 🚀
 
-_Esto es un ejercicio para realizar en Java, concretamente veremos como funciona las clases, atributos y métodos y colecciones (ArrayList y Collections)._
+_Esto es un ejercicio para realizar en Java, concretamente veremos como funciona las clases, atributos, métodos aplicados en Herencia, Polimorfismo e Interfaces._
 
 
 ### Pre-requisitos 📋
